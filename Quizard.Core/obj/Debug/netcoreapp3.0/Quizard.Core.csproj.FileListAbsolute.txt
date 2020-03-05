@@ -1,8 +1,0 @@
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\bin\Debug\netcoreapp3.0\Quizard.Core.deps.json
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\bin\Debug\netcoreapp3.0\Quizard.Core.dll
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\bin\Debug\netcoreapp3.0\Quizard.Core.pdb
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\obj\Debug\netcoreapp3.0\Quizard.Core.AssemblyInfoInputs.cache
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\obj\Debug\netcoreapp3.0\Quizard.Core.AssemblyInfo.cs
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\obj\Debug\netcoreapp3.0\Quizard.Core.dll
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\obj\Debug\netcoreapp3.0\Quizard.Core.pdb
-C:\Users\tarike\source\repos\Quizard\Quizard.Core\obj\Debug\netcoreapp3.0\Quizard.Core.csprojAssemblyReference.cache
