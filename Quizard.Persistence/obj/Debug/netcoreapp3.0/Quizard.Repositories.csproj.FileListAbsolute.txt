@@ -1,0 +1,11 @@
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\bin\Debug\netcoreapp3.0\Quizard.Repositories.deps.json
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\bin\Debug\netcoreapp3.0\Quizard.Repositories.dll
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\bin\Debug\netcoreapp3.0\Quizard.Core.dll
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\bin\Debug\netcoreapp3.0\Quizard.Core.pdb
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.AssemblyInfoInputs.cache
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.AssemblyInfo.cs
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.csproj.CopyComplete
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\bin\Debug\netcoreapp3.0\Quizard.Repositories.pdb
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.csprojAssemblyReference.cache
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.dll
+C:\Users\tarike\source\repos\Quizard\Quizard.Repositories\obj\Debug\netcoreapp3.0\Quizard.Repositories.pdb
